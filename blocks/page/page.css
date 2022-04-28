@@ -1,0 +1,35 @@
+.page {
+  background-color: #2A2C2F;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 28px 48px 24px 48px;
+  max-width: 1280px;
+  min-width: 320px;
+  font-family: Inter, 'Helvetica Neue', Arial, sans-serif;
+  font-style: normal;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media screen and (max-width: 1024px) {
+  .page {
+    margin: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .page {
+    padding: 28px 0 24px 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .page {
+    padding: 16px 0 24px 0;
+  }
+}

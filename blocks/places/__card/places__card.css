@@ -1,0 +1,7 @@
+.places__card {
+  padding-bottom: 80px;
+}
+
+.places__card:last-child {
+  padding-bottom: 0;
+}

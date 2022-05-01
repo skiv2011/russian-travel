@@ -5,10 +5,9 @@
   flex-direction: column;
   box-sizing: border-box;
   padding: 56px 100px 92px 100px;
-  
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1024px) {
   .lead {
     padding: 48px 48px 92px 48px;
   }
@@ -16,14 +15,12 @@
 
 @media screen and (max-width: 768px) {
   .lead {
-
     padding: 48px 0 88px 0;
   }
 }
 
 @media screen and (max-width: 425px) {
   .lead {
-
     padding: 48px 0 64px 0;
   }
 }

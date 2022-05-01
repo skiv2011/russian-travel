@@ -4,9 +4,9 @@
   justify-content: space-between;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 767px) {
   .footer__navigation {
-      padding-bottom: 48px;
-      align-items: stretch;
+    padding-bottom: 48px;
+    align-items: stretch;
   }
 }

@@ -12,6 +12,7 @@
   -moz-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /*border: 1px solid red;*/
 }
 
 @media screen and (max-width: 1024px) {

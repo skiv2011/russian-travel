@@ -6,6 +6,12 @@
   color: #FFFFFF;
 }
 
+@media screen and (max-width: 1184px) {
+  .intro__title {
+    
+  }
+}
+
 @media screen and (max-width: 767px) {
   .intro__title {
   font-size: 32px;

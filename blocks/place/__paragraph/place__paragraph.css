@@ -1,7 +1,8 @@
 .place__paragraph {
   font-size: 18px;
-  line-height: 30px;
-  margin: 25px 0 0;
+  line-height: 29px;
+  margin: 0;
+  padding-bottom: 25px;
 }
 
 .place__paragraph:last-child {

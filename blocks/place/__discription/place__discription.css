@@ -5,6 +5,7 @@
 
 @media screen and (max-width: 425px) {
   .place__discription {
+    width: 288px;
     padding: 0 16px 0px 16px;
   }
 }
